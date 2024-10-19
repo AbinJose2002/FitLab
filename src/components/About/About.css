@@ -1,0 +1,30 @@
+.about-sec {
+    margin: 0 !important;
+    box-sizing: border-box;
+    width: 100vw;
+    padding: 3em 7em;
+}
+
+.about-head {
+    font-size: 55px;
+    padding: .5em 0;
+}
+
+.about-gallery {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 4em;
+}
+
+.about-gallery img {
+    width: 100%;
+    height: auto;
+    border-radius: 30px;
+}
+
+@media (max-width: 768px) {
+    .about-gallery {
+        padding: 2em;
+    }
+}

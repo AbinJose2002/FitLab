@@ -1,0 +1,31 @@
+.lab-head{
+    text-align: center;
+    font-size: 55px;
+}
+
+.dbms{
+    padding: 3em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.lab-img{
+    width: 70%;
+    height: auto;
+    border-radius: 30px;
+}
+
+.lab-img:hover{
+    transform: scale(1.02);
+}
+
+.dbms-head{
+    padding-top: 1em;
+}
+
+.btn-primary{
+    background-color: #004F97 !important;
+    margin-top: 20px;
+}

@@ -1,0 +1,30 @@
+.hero-sec{
+    width: 100vw;
+    height: 90vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;    
+    flex-direction: column;
+    /* background: url("../../assets/images.jpg"); */
+    background-color: rgb(255, 235, 235);
+    background-size: 100% 100%;
+    backdrop-filter: blur(10px);
+}
+
+.heroBtn{
+    border-radius: 20px;
+    padding: 10px 20px;
+    background-color: #004F97;
+    color: #fff;
+    border: 3px solid #FAA61A
+}
+
+.heroHead{
+    font-size: 50px;
+    padding: .5em 0;
+    text-align: center;
+}
+
+.heroP{
+    font-size: 20px;
+}
