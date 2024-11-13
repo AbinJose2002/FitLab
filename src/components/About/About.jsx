@@ -8,7 +8,7 @@ const About = () => {
                 <img src={img1} alt="Image 1" />
             </div>
             <div className="about-para col-sm-12 col-lg-6 order-sm-1 order-lg-2">
-                <h1 className="about-head ">FIT-Lab: A Virtual Learning Environment</h1>
+                <h1 className="about-head">FIT-Lab: A Virtual Learning Environment</h1>
                 <p className="about-para">
                     By providing a simulated environment, students can experiment with
                     various software, databases, and network configurations without

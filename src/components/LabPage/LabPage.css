@@ -1,0 +1,17 @@
+.title{
+    font-size: 3em;
+}
+
+.intro-text{
+    font-size: 2em;
+}
+
+.card-img{
+    height: 350px;
+}
+
+.card-container{
+    display: flex;
+    /* align-items: center; */
+    justify-content: center ;
+}

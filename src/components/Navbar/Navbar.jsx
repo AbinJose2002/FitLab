@@ -13,27 +13,27 @@ const Navbar = () => {
             <div className="nav-logo">FitLab</div>
             <ul className={`${isOpen ? 'open' : ''} nav-list`}>
                 <li>
-                    <a href="#" className="nav-link">
+                    <a href="/" className="nav-link">
                         Home
                     </a>
                 </li>
                 <li>
-                    <a href="" className="nav-link">
+                    <a href="/" className="nav-link">
                         About Us
                     </a>
                 </li>
                 <li>
-                    <a href="" className="nav-link">
+                    <a href="/labs" className="nav-link">
                         Labs
                     </a>
                 </li>
                 <li>
-                    <a href="" className="nav-link">
+                    <a href="/" className="nav-link">
                         Curriculum
                     </a>
                 </li>
                 <li>
-                    <a href="" className="nav-link nav-btn">
+                    <a href="/" className="nav-link nav-btn">
                         Curriculum
                     </a>
                 </li>

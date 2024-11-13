@@ -10,10 +10,28 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@syncfusion/ej2-react-base": "*",
+    "@syncfusion/ej2-react-buttons": "*",
+    "@syncfusion/ej2-react-diagrams": "*",
+    "@syncfusion/ej2-react-dropdowns": "*",
+    "@syncfusion/ej2-react-inputs": "*",
+    "@syncfusion/ej2-react-lists": "*",
+    "@syncfusion/ej2-react-navigations": "*",
+    "@syncfusion/ej2-react-popups": "*",
+    "@syncfusion/ej2-react-splitbuttons": "*",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
     "bootstrap": "^5.3.3",
     "react": "^18.3.1",
+    "react-bootstrap": "^2.10.5",
     "react-dom": "^18.3.1",
-    "reactstrap": "^9.2.3"
+    "react-iframe": "^1.8.5",
+    "react-router-dom": "^6.27.0",
+    "react-scripts": "5.0.1",
+    "reactstrap": "^9.2.3",
+    "styled-components": "^6.1.13",
+    "web-vitals": "^2.1.4"
   },
   "devDependencies": {
     "@eslint/js": "^9.11.1",

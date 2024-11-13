@@ -3,6 +3,9 @@
     box-sizing: border-box;
     width: 100vw;
     padding: 3em 7em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .about-head {
@@ -23,8 +26,16 @@
     border-radius: 30px;
 }
 
+.about-para{
+    font-size: 15px;
+}
+
 @media (max-width: 768px) {
     .about-gallery {
         padding: 2em;
+    }
+
+    .about-sec{
+        padding: 1em;
     }
 }
